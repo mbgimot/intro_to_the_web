@@ -27,7 +27,5 @@ get '/agree3' do
 end
 
 get '/cat' do
-  "<img style ='border: 2px dotted red;' src='http://bit.ly/1eze8aE'>"
-
-
+  erb(:index)
 end
