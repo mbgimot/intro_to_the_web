@@ -25,3 +25,9 @@ end
 get '/agree3' do
   "mitch agrees"
 end
+
+get '/cat' do
+  "<img style ='border: 2px dotted red;' src='http://bit.ly/1eze8aE'>"
+
+
+end
